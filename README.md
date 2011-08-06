@@ -1,4 +1,4 @@
-you'll need (PerlSpec)[https://github.com/bostonaholic/perlspec]
+you'll need [PerlSpec](https://github.com/bostonaholic/perlspec)
 
 ```
 $ cpan -i PerlSpec
