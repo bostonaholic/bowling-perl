@@ -1,7 +1,7 @@
-you'll need [PerlSpec](https://github.com/bostonaholic/perlspec)
+you'll need [Test::More::Behaviour](https://github.com/bostonaholic/test-more-behaviour)
 
 ```
-$ cpan -i PerlSpec
+$ cpan -i Test::More::Behaviour
 ```
 
 to run the specs
