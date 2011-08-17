@@ -5,7 +5,7 @@ use Test::More::Behaviour 'no_plan';
 
 my $game;
 
-sub set_up {
+sub before_each {
   $game = Bowling->new;
 }
 
