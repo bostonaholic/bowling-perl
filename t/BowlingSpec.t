@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-use Test::More::Behaviour 'no_plan';
+use Test::More::Behaviour;
 
 my $game;
 
@@ -68,4 +68,4 @@ sub _roll_many {
   }
 }
 
-1;
+done_testing();
