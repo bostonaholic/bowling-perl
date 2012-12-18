@@ -7,5 +7,5 @@ $ cpan -i Test::More::Behaviour
 Use `prove` to run the specs.
 
 ```
-$ prove
+$ prove --lib
 ```
