@@ -1,11 +1,11 @@
-you'll need [Test::More::Behaviour](https://github.com/bostonaholic/test-more-behaviour)
+This is a bowling kata I have written to showoff my BDD library, [Test::More::Behaviour](https://github.com/bostonaholic/test-more-behaviour).
 
 ```
 $ cpan -i Test::More::Behaviour
 ```
 
-to run the specs
+Use `prove` to run the specs.
 
 ```
-$ perl BowlingSpec.t
+$ prove
 ```
